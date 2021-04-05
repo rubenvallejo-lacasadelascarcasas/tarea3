@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>tarea3_1</name>
+	<displayName><![CDATA[tarea3_1]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[modulo para la tarea 3 ]]></description>
+	<author><![CDATA[Ruben]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
